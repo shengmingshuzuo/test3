@@ -7,5 +7,6 @@ public class gitTest1 {
         System.out.println("第三次了");
         System.out.println("第四次了");
         System.out.println("push test master");
+        System.our.println("pull Test");
     }
 }
